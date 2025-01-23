@@ -1,0 +1,32 @@
+body{
+    background-color: darkgrey;
+}
+
+.nph{
+    background-color: rgb(65, 16, 16);
+}
+#password{
+    background-color: rgb(1, 73, 49);
+}
+#Subject{background-color: rgb(200, 178, 221);
+
+}
+#textarea{background-color: chocolate;}
+
+input[type=submit]{
+   background-color: rgb(37, 102, 102); 
+}
+input[type=checkbox]{background-color: rgb(49, 36, 18);}
+
+#jee{color: rgb(131, 131, 84);}
+#css{color: blueviolet;}
+#html{color: aqua;}
+#js{color: rgb(77, 67, 87);}
+#db{color: chartreuse;}
+
+#name{color: rgb(81, 105, 105);}
+#Phone{color: rgb(105, 79, 221);}
+#dob{color: blueviolet;
+}
+#feild{background-color: rgb(122, 41, 41);}
+.Hobby{color: blue; }
